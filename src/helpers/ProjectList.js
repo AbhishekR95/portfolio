@@ -22,9 +22,9 @@ export const projectList = [
   {
     name: "Weather app",
     image: crud,
-    skills: "HTML, CSS & Javascript",
+    skills: "React & React-Bootstrap",
     description:
-      "This is a weather app created using HTML CSS and JS with the help weather API.",
+      "This is a CRUD app craeted with the help of React using Axios and Mock API as a backend to store the users data.",
     ref: "weatherApp-Javascript",
   },
 ];

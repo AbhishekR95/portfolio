@@ -10,7 +10,7 @@ import "react-vertical-timeline-component/style.min.css";
 const Experience = () => {
   return (
     <>
-      <div className="experience bg-[#e2e2e2] w-full h-[90vh] xl:h-[92vh] md:pt-[90px] md:mr-[13%]">
+      <div className="experience bg-[#e2e2e2] w-full sm:h-[85vh] md:h-[90vh] lg:h-[95vh] md:pt-[90px] md:mr-[13%]">
         <VerticalTimeline
           lineColor="#1f1f1f"
           className="sm:mt-[7%] md:mt-[-1%]"
