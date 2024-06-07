@@ -1,4 +1,4 @@
-import weather from "../assets/weather.png";
+import crud from "../assets/CRUD.png";
 import todo from "../assets/todo.png";
 import myntra from "../assets/myntra.avif";
 export const projectList = [
@@ -21,7 +21,7 @@ export const projectList = [
 
   {
     name: "Weather app",
-    image: weather,
+    image: crud,
     skills: "HTML, CSS & Javascript",
     description:
       "This is a weather app created using HTML CSS and JS with the help weather API.",

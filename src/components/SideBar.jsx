@@ -14,7 +14,7 @@ const SideBar = ({ isOpen, toggleSideBar }) => {
           <button className="absolute top-1 right-1" onClick={handleLinkClick}>
             <RxCross2 size={35} />
           </button>
-          <Link to={"/"} onClick={handleLinkClick}>
+          <Link to={"/portfolio"} onClick={handleLinkClick}>
             Home
           </Link>
           <Link to={"/about"} onClick={handleLinkClick}>
