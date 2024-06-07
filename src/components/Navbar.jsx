@@ -23,7 +23,7 @@ const Navbar = () => {
         <SideBar isOpen={sideBarOpen} toggleSideBar={toggleSideBar} />
         <div className="md:flex items-center  bg-[black] text-[#E3E4E6] fixed top-0 z-[5] w-full">
           <div className="sm:w-12 md:w-20">
-            <RouterLink to={"/home"}>
+            <RouterLink to={"/portfolio"}>
               <img data-aos="fade-in" className="" src={logo} alt="" />
             </RouterLink>
           </div>
@@ -31,7 +31,7 @@ const Navbar = () => {
             data-aos="fade-in"
             className="hidden lg:flex gap-[90px] lg:ml-[20%] xl:ml-[35%] md:text-[14px]"
           >
-            <RouterLink to="/home">Home</RouterLink>
+            <RouterLink to="/portfolio">Home</RouterLink>
             <RouterLink to="/about">About</RouterLink>
             <RouterLink to="/experience">Experience</RouterLink>
             <RouterLink to="/projects">Projects</RouterLink>
