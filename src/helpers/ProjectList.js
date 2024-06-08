@@ -9,7 +9,7 @@ export const projectList = [
     skills: "HTML, CSS & Javascript",
     description:
       "This is todolist app built using HTML CSS and JS along with local storage",
-    ref: "todoList-Javascript",
+    ref: "todoList-Javascript/",
   },
   {
     name: "React - Cart project",
