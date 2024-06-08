@@ -20,11 +20,11 @@ export const projectList = [
     ref: "React-ContextAPI/",
   },
   {
-    name: "React - Cart project",
+    name: "React - Notes App",
     image: NotesReact,
-    skills: "React",
+    skills: "React-Typescript",
     description:
-      "I have created this React project purely to showcase my React skills hence this is not a full fledged e-commerce website, but mainly covers Home page, Add to Cart page, and Filter feature using Context API.",
+      "This is a notes app created with the help of React and basic typescript",
     ref: "React-typescript-notesApp/",
   },
 
@@ -33,7 +33,7 @@ export const projectList = [
     image: crud,
     skills: "React & React-Bootstrap",
     description:
-      "This is a CRUD app craeted with the help of React using Axios and Mock API as a backend to store the users data.",
+      "This is a CRUD app created with the help of React using Axios and Mock API as a backend to store the users data.",
     ref: "crud-app",
   },
 ];
