@@ -29,7 +29,7 @@ export const projectList = [
   },
 
   {
-    name: "Weather app",
+    name: "CRUD App",
     image: crud,
     skills: "React & React-Bootstrap",
     description:
