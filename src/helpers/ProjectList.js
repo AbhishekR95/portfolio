@@ -16,7 +16,7 @@ export const projectList = [
     skills: "React",
     description:
       "I have created this React project purely to showcase my React skills hence this is not a full fledged e-commerce website, but mainly covers Home page, Add to Cart page, and Filter feature using Context API.",
-    ref: "React-ContextAPI",
+    ref: "React-ContextAPI/",
   },
 
   {
