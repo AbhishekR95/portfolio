@@ -24,7 +24,7 @@ const ProjectDisplay = () => {
         </div>
         <div className="hover:opacity-[0.6] cursor-pointer">
           <a
-            href={`https://github.com/AbhishekR95/${project.ref}`}
+            href={`https://abhishekr95.github.io/${project.ref}`}
             target="_blank"
           >
             <IoLogoGithub size={35} />
