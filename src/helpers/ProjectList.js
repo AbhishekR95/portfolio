@@ -1,6 +1,7 @@
 import crud from "../assets/CRUD.png";
 import todo from "../assets/todo.png";
 import myntra from "../assets/myntra.avif";
+import NotesReact from "../assets/NotesReact.png";
 export const projectList = [
   {
     name: "Todo-List",
@@ -17,6 +18,14 @@ export const projectList = [
     description:
       "I have created this React project purely to showcase my React skills hence this is not a full fledged e-commerce website, but mainly covers Home page, Add to Cart page, and Filter feature using Context API.",
     ref: "React-ContextAPI/",
+  },
+  {
+    name: "React - Cart project",
+    image: NotesReact,
+    skills: "React",
+    description:
+      "I have created this React project purely to showcase my React skills hence this is not a full fledged e-commerce website, but mainly covers Home page, Add to Cart page, and Filter feature using Context API.",
+    ref: "React-typescript-notesApp/",
   },
 
   {
