@@ -25,6 +25,6 @@ export const projectList = [
     skills: "React & React-Bootstrap",
     description:
       "This is a CRUD app craeted with the help of React using Axios and Mock API as a backend to store the users data.",
-    ref: "weatherApp-Javascript",
+    ref: "crud-app",
   },
 ];
