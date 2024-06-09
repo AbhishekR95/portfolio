@@ -11,7 +11,7 @@ const ProjectDisplay = () => {
       <div className="flex flex-col items-center justify-center h-[95vh] gap-4 pt-[5%]">
         <h1 className="text-xl">{project.name}</h1>
         <img
-          className="sm:w-[80%] lg:w-[60%] xl:w-[55%] 2xl:w-[35%] rounded-[10%] shadow-lg"
+          className="sm:w-[80%] md:w-[60%] lg:w-[40%] xl:w-[35%] 2xl:w-[35%] rounded-[10%] shadow-lg"
           src={project.image}
           alt=""
         />

@@ -10,9 +10,9 @@ const About = () => {
     <>
       <div
         data-aos="fade-in"
-        className="bg-[#e1e1e1] sm:flex  h-[90vh] xl:flex xl:justify-around"
+        className="bg-[#e1e1e1] sm:flex h-[90vh] xl:flex xl:justify-around"
       >
-        <div className="sm:w-[90%] sm:ml-[4%] sm:mt-[30%] sm:leading-1 sm:text-left md:leading-9 md:mt-[20%] xl:leading-7 xl:mt-[10%] xl:w-[40%] 2xl:mt-[5%] 2xl:w-[30%] 2xl:ml-[1%] 2xl:leading-8">
+        <div className="sm:w-[90%] sm:ml-[4%] sm:mt-[20%] sm:leading-1 sm:text-left md:leading-8 md:mt-[12%] xl:leading-7 xl:mt-[7%] xl:w-[40%] 2xl:mt-[5%] 2xl:w-[30%] 2xl:ml-[1%] 2xl:leading-8">
           <p>
             Hey there, I'm ,{" "}
             <span className="font-semibold">Abhishek Pawar</span> a 29-year-old
